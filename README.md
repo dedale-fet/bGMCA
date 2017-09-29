@@ -118,7 +118,7 @@ The A and S matrices for the last block size are also available (the matrices fo
 ### Output
    <p align="center">
    <a name="exp_20_src.png"></a>
-   <img src="./Review/exp_20_src.png" width="400"/>
+   <img src="./Pictures/exp_20_src.png" width="400"/>
    </p>
 
 
@@ -160,7 +160,7 @@ Number of wavelet scales.
 ### Output
    <p align="center">
    <a name="exp_20_src.png"></a>
-   <img src="./Review/exp_NMF.png" width="400"/>
+   <img src="./Pictures/exp_NMF.png" width="400"/>
    </p>
 
 
