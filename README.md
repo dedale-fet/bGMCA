@@ -36,8 +36,6 @@ If you have only access to X, you can directly launch the bGMCA function (warm-u
 
 
 ## Exemple: a relatively simple large scale BSS problem
-import launch_bGMCA as lgc
-
 
 ```python
 import launch_bGMCA as lgc
